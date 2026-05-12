@@ -43,11 +43,3 @@
 
 ---
 
-**Terminology Reference (คำศัพท์อ้างอิง):**
-*   **DFT (Density Functional Theory):** ทฤษฎีฟังก์ชันนัลความหนาแน่น
-*   **XRD (X-ray Diffraction):** การเลี้ยวเบนของรังสีเอกซ์
-*   **Thermodynamic Stability:** ความเสถียรทางอุณหพลศาสตร์
-*   **Superalloys:** โลหะผสมยิ่งยวด
-
----
-*ทำไมน่ะหรือ? ก็เพราะมันคือธรรมชาติของมนุษย์ยังไงล่ะ — Nature. 🍃✨*
