@@ -1,4 +1,4 @@
-# Research Report by Annie #1 Thai ver.
+# Research-report-by-Nature-1
 ## รายงานวิจัยฉบับที่ 1: "ห้องแล็บที่รันตัวเอง — และความกังขาที่ช่วยรักษาความเที่ยงตรง"
 
 🍃✨
